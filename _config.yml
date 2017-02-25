@@ -86,7 +86,7 @@ share-links-active:
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "@khodeprasad"
+disqus: "khodeprasad-github-io"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-90535114-1"
@@ -111,7 +111,7 @@ title-separator: "-"
 timezone: "Asia/Kolkata"
 markdown: kramdown
 highlighter: rouge
-permalink: /:title/
+permalink: /blog/:title/
 paginate: 5
 
 kramdown:
