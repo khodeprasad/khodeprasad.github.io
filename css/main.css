@@ -463,11 +463,11 @@ footer .theme-by {
   text-shadow: 1px 1px 3px #000;
 }
 .intro-header .page-heading h1 {
-  margin-top: 0;
+  margin-top: 15px;
   font-size: 30px;
 }
 .intro-header .post-heading h1 {
-  margin-top: 0;
+  margin-top: 15px;
   font-size: 30px;
 }
 .intro-header .page-heading .page-subheading,
@@ -649,7 +649,7 @@ table tr td :last-child {
 /* --- Code blocks --- */
 
 pre {
-  font-size: 16px;
+  font-size: 13px;
   line-height: 1.5em;
 }
 pre code {
