@@ -110,18 +110,14 @@ img {
 @media only screen and (min-width : 569px) and (max-width : 767px) {
   .navbar-right {
     margin-left: 0px;
-    font-size: 20px;
+    font-size: 25px;
   }
 }
 
 @media only screen and (min-width : 240px) and (max-width : 568px) {
   .navbar-right {
     margin-left: 3px;
-    font-size: 18px;
-  }
-  
-  .navbar-custom .navbar-brand-logo {
-    display: none;
+    font-size: 25px;
   }
   
   .navbar-custom .avatar-container {

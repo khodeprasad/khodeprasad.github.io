@@ -3,7 +3,6 @@ layout: post
 title: Create Table in HBase using Java
 tags: [Configuration, Connection, Create Table, Hadoop, HBase, Java, Java HBase Integration]
 ---
-
 To create table into HBase by using Java we will use _**hbase-client.jar**_ which is available in maven repository. The following dependency can be added in our `pom.xml`
 
 {% highlight java linenos %}
