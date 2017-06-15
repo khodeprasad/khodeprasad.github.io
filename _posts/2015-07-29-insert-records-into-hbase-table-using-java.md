@@ -3,6 +3,7 @@ layout: post
 title: Insert records into HBase table using Java
 tags: [Configuration, Insert, Integration, Java, Java HBase, Records, Table]
 ---
+_**`hbase-client.jar`**_ will be used to get connected to HBase using Java and this is available in maven repository. The following dependency can be added in our `pom.xml`
 
 {% highlight java linenos %}
 <dependency>
