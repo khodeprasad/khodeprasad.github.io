@@ -33,7 +33,7 @@ Now to use the same HBase table and query in Apache Phoenix, we create a view on
 CREATE VIEW "users_data" ( ROWKEY VARCHAR PRIMARY KEY, "personal_info"."firstName" VARCHAR, "personal_info"."lastName" VARCHAR, "personal_info"."gender" VARCHAR, "contact_info"."mail" VARCHAR, "contact_info"."mobile" VARCHAR ) ;
 {% endhighlight %}
 
-To check if the view created successfully use <b>!tables</b> command like below
+To check if the view created successfully use the following command 
 
 {% highlight powershell linenos %}!tables{% endhighlight %}
 
