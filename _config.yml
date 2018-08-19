@@ -201,3 +201,5 @@ prose:
 gems:
   - jekyll-paginate
   - jekyll-sitemap
+
+theme: jekyll-theme-leap-day
