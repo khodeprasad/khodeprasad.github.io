@@ -11,13 +11,11 @@ baseurl: ""
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
 
-# Of course don't forget to change the username and projectname to YOUR username and project
-
 # Name of website
 title: Khode Prasad
 
 # Short description of your site
-description: Data Engineer
+description: Data Engineer & ML Enthusiast
 
 # --- Navigation bar options --- #
 
@@ -46,14 +44,14 @@ author:
   twitter: prasadkhode
   linkedin: khodeprasad
   stackoverflow: 1025328/prasad-khode
-  reddit: yourname    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  xing: yourname      # eg. daattali
-  snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
+  reddit: yourname
+  google-plus: +yourname
+  xing: yourname
+  snapchat: yourname
+  instagram: yourname
+  youtube: yourlink
+  spotify: yourname
+  telephone: yourphone
 
 # Select which links to show in the footer
 footer-links-active:

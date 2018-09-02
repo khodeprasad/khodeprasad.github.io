@@ -10,4 +10,4 @@ My area of interest is in Big Data technologies including Hadoop, Spark, Pig, HB
 
 Hands on experience in setting up hadoop cluster using different distributions like Cloudera, Hortonworks and Amazon EMR on cloud platforms like Amazon Web Services (AWS) and Google Cloud Platform (GCP)
 
-Active member in [Stackoverflow](https://stackoverflow.com/users/1025328/prasad-khode) with a total of 3400+ reputation answering questions on Java, Spring, Hadoop, Spark and other big data technologies.
+Active member in [Stackoverflow](https://stackoverflow.com/users/1025328/prasad-khode) with a total of around 4k reputation answering questions on Java, Spring, Hadoop, Spark and other big data technologies.
