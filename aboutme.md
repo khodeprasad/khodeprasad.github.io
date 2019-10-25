@@ -6,7 +6,7 @@ title: About Me
 
 Working as Principal Engineer with around 9 years of experience in the field of design and development and has provided enterprise solutions using Java technology stack and various open source frameworks.
 
-My area of interest is in Big Data technologies including Hadoop, Spark, Pig, HBase, Hive, Sqoop, ElasticSearch, Mongo etc. with 5+ years of experience.
+My area of interest is in Big Data technologies including Hadoop, Spark, Pig, HBase, Hive, Sqoop, ElasticSearch, Mongo etc. with 6+ years of experience.
 
 Hands on experience in setting up hadoop cluster using different distributions like Cloudera, Hortonworks and Amazon EMR on cloud platforms like Amazon Web Services (AWS) and Google Cloud Platform (GCP)
 
